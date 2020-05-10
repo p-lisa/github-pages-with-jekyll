@@ -1,1 +1,4 @@
-incredible we are just writing the very first post! 
+---
+title: "I am naming this ne post"
+date: 2020-05-10
+---
